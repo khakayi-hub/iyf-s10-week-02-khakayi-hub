@@ -2,7 +2,7 @@
 
 ## Author
 - **Name:** Mitchelle Khakayi
-- **GitHub:** [@MaisoriKitayama](https://github.com/MaisoriKitayama)
+- **GitHub:** khakayi-hub(https://github.com/khakayi-hub)
 - **Date:** Month Day, Year
 
 ## Project Description

@@ -3,7 +3,7 @@
 ## Author
 - **Name:** Mitchelle Khakayi
 - **GitHub:** khakayi-hub(https://github.com/khakayi-hub)
-- **Date:** Month Day, Year
+- **Date:** MARCH 22, 2026
 
 ## Project Description
 Brief description of what you built and why.

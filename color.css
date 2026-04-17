@@ -1,0 +1,74 @@
+/* Root Color Variables */
+:root {
+    --color-primary: #4F46E5;
+    --color-secondary: #F59E0B;
+    --color-background: #F9FAFB;
+    --color-text: #111827;
+    --color-muted: #6B7280;
+
+    /* Variations */
+    --color-primary-light: #6366F1;
+    --color-primary-dark: #4338CA;
+}
+/* Body */
+body {
+    background-color: var(--color-background);
+    color: var(--color-text);
+    font-family: Arial, sans-serif;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+    color: var(--color-text);
+}
+
+/* Paragraph */
+p {
+    color: var(--color-muted);
+}
+
+/* Links */
+a {
+    color: var(--color-primary);
+    text-decoration: none;
+}
+
+a:hover {
+    color: var(--color-primary-dark);
+    text-decoration: underline;
+}
+
+/* Buttons */
+button {
+    background-color: var(--color-primary);
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: var(--color-primary-dark);
+}
+
+/* Secondary Button (optional) */
+.button-secondary {
+    background-color: var(--color-secondary);
+}
+
+.button-secondary:hover {
+    opacity: 0.9;
+}
+
+/* Sections / Cards */
+.section {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+/* Muted text */
+.small-text {
+    color: var(--color-muted);
+}

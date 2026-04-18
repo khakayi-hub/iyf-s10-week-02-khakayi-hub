@@ -6,18 +6,17 @@
 - **Date:** MARCH 22, 2026
 
 ## Project Description
-Brief description of what you built and why.
+I built a fully responsive , interactive and professionally structured portfolio website built with modern fronted practices.
 
 ## Technologies Used
 - HTML5
 - CSS3
-- JavaScript
-- (list all technologies)
+
 
 ## Features
-- Feature 1
-- Feature 2
-- Feature 3
+- Design & UI
+- Responsive Design
+- Navigation
 
 ## How to Run
 1. Clone this repository
@@ -26,13 +25,14 @@ Brief description of what you built and why.
    Run `npm install` then `npm start`
 
 ## Lessons Learned
-What did you learn while building this project?
+1. Mobile-first design is easier to scale
+2. Understanding the CSS box model is crucial.
+3. Css variables improve consistency.
+4. Flaxbox and grid are powerfull layout tools.
 
 ## Challenges Faced
-What problems did you encounter and how did you solve them?
+1. Layout breaking due to box model.
+2. Making layouts fully responsive.
+3. Navigation responsiveness.
 
-## Screenshots (optional)
-![Screenshot description](path/to/screenshot.png)
-
-## Live Demo (if deployed)
-[View Live Demo](https://your-deployed-url.com)
+Add commit

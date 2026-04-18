@@ -1,4 +1,4 @@
-# Week 02: {Project Title}
+# Week 02: CSS MASTERY
 
 ## Author
 - **Name:** Mitchelle Khakayi
